@@ -7,6 +7,8 @@ Tech stacks used -
 Features : 1) User can register his all records into the database.
            2) And he can see all the data in the tabuler manner.
            
+Deployed Link : https://dynamic-torte-0a3102.netlify.app/
+           
 Home Page : ![Screenshot (545)](https://user-images.githubusercontent.com/96245223/175018821-e88f5276-9221-48cb-b3ff-94599e5424da.png)
 
 Registration Page : ![Screenshot (546)](https://user-images.githubusercontent.com/96245223/175018928-af72c7ff-bea3-452f-8fc6-aa5c1530e72f.png)
